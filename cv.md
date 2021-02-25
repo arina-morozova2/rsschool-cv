@@ -42,3 +42,8 @@ let mark = 5;
 
 [MyFreedomSchool](https://myfreedom.by/)
 - Front-end development (JavaScript)
+
+## English
+The level of English is B1. I never miss an opportunity to chat with a native speaker.
+In 2014 I went to a linguistic camp. I have many friends who live in Belgium, France.
+Last year I lived for six months with girls from Iran. Our communication was in English.
