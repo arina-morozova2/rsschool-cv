@@ -34,3 +34,11 @@ let mark = 5;
  	console.log('Вы ввели неправильный средний балл');
  }
 ```
+## Educational courses:
+
+[SkillUp](https://skillup.ua/)
+- Basic web and SQL for sowtware testing
+- Sortware testing
+
+[MyFreedomSchool](https://myfreedom.by/)
+- Front-end development (JavaScript)
